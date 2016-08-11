@@ -1,6 +1,7 @@
 .DS_Store
 .ipynb_checkpoints/
 act_test.csv
+intermediate_clean.csv
 act_train.csv
 sample_submission.csv
 clean.csv
