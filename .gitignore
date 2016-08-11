@@ -1,3 +1,4 @@
+.DS_Store
 .ipynb_checkpoints/
 act_test.csv
 act_train.csv
